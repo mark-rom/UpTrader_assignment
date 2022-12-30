@@ -2,9 +2,10 @@ version: '3.3'
 
 services:
   tree_menu:
-    build:
-      context: ../
-      dockerfile: ./src/Dockerfile
+    # build:
+    #   context: ../
+    #   dockerfile: ./src/Dockerfile
+    image: pavelsergeev/menu_template
     volumes:
       - static_value:/app/static/
     ports:
