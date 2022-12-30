@@ -21,6 +21,7 @@
     При выполнении задания из библиотек следует использовать только Django и стандартную библиотеку Python
 </details>
 ____
+
 ## Настройки и запуск
 
 Клонируйте репозиторий `git clone git@github.com:mark-rom/UpTrader_assignment.git` и перейдите в папку infra `cd menu_template/infra` внутри проекта.
